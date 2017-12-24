@@ -1,0 +1,19 @@
+<?php
+define('_DB_SERVER_', 'localhost');
+define('_DB_NAME_', 'BestSmell');
+define('_DB_USER_', 'root');
+define('_DB_PASSWD_', '');
+define('_DB_PREFIX_', 'bs_');
+define('_MYSQL_ENGINE_', 'InnoDB');
+define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
+define('_PS_CACHE_ENABLED_', '0');
+define('_MEDIA_SERVER_1_', '');
+define('_MEDIA_SERVER_2_', '');
+define('_MEDIA_SERVER_3_', '');
+define('_COOKIE_KEY_', 'y79yoAW110K1wYZxusq4XZiucFnINf249qDgeik0GKYxsrOLb1dFPIOw');
+define('_COOKIE_IV_', 'boajDUWL');
+define('_PS_CREATION_DATE_', '2017-12-14');
+if (!defined('_PS_VERSION_'))
+	define('_PS_VERSION_', '1.6.0.9');
+define('_RIJNDAEL_KEY_', 'vu1cmYRbORRMQgfJhLeWsRUcsViCLFKP');
+define('_RIJNDAEL_IV_', 'AakpAMDMeeNd0gwf/oTHOQ==');
